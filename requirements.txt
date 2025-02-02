@@ -1,0 +1,3 @@
+# Python requirements for Test Project
+
+whispers
